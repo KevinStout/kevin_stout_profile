@@ -114,6 +114,13 @@ export default function Home() {
           Soluta, obcaecati voluptatem. Totam quo veritatis rem, corrupti sequi expedita.
         </p>
       </section>
+      <section>
+        <h1>Nice Curves 9</h1>
+        <p>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit. In quibusdam odio beatae vero corporis omnis minus doloremque distinctio ipsam blanditiis.
+          Soluta, obcaecati voluptatem. Totam quo veritatis rem, corrupti sequi expedita.
+        </p>
+      </section>
     </main>
   );
 }
