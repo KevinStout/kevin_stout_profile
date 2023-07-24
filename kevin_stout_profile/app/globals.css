@@ -3,7 +3,8 @@
 @tailwind utilities;
 
 :root {
-  color: antiquewhite;
+  /* color: antiquewhite; */
+  color: #bdad93;
   margin: 0;
   padding: 0;
   font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -26,6 +27,26 @@ section {
   to {
     background-position: -10000px 5000px;
   }
+}
+
+.primary-background-color {
+  background: #1e293b;
+}
+
+.secondary-background-color {
+  background-color: #4d535b;
+}
+
+.primary-text-color {
+  color: #bdad93;
+}
+
+.secondary-text-color {
+  color: #b09c7d;
+}
+
+.accent-background-color {
+  background-color: #697891;
 }
 
 .stars,
