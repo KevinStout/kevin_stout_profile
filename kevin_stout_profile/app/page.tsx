@@ -67,42 +67,42 @@ export default function Home() {
           Soluta, obcaecati voluptatem. Totam quo veritatis rem, corrupti sequi expedita.
         </p>
       </section>
-      <section>
+      <section className="primary-background-color">
         <h1>Nice Curves 2</h1>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. In quibusdam odio beatae vero corporis omnis minus doloremque distinctio ipsam blanditiis.
           Soluta, obcaecati voluptatem. Totam quo veritatis rem, corrupti sequi expedita.
         </p>
       </section>
-      <section>
+      <section className="secondary-background-color">
         <h1>Nice Curves 3</h1>
         <p>
           Lorem, ipsum dolor sit amet hello consectetur adipisicing elit. In quibusdam odio beatae vero corporis omnis minus doloremque distinctio ipsam
           blanditiis. Soluta, obcaecati voluptatem. Totam quo veritatis rem, corrupti sequi expedita.
         </p>
       </section>
-      <section>
+      <section className="accent-background-color">
         <h1>Nice Curves 4</h1>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. In quibusdam odio beatae vero corporis omnis minus doloremque distinctio ipsam blanditiis.
           Soluta, obcaecati voluptatem. Totam quo veritatis rem, corrupti sequi expedita.
         </p>
       </section>
-      <section>
+      <section className="primary-background-color secondary-text-color">
         <h1>Nice Curves 5</h1>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. In quibusdam odio beatae vero corporis omnis minus doloremque distinctio ipsam blanditiis.
           Soluta, obcaecati voluptatem. Totam quo veritatis rem, corrupti sequi expedita.
         </p>
       </section>
-      <section>
+      <section className="secondary-background-color secondary-text-color">
         <h1>Nice Curves 6</h1>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. In quibusdam odio beatae vero corporis omnis minus doloremque distinctio ipsam blanditiis.
           Soluta, obcaecati voluptatem. Totam quo veritatis rem, corrupti sequi expedita.
         </p>
       </section>
-      <section>
+      <section className="accent-background-color secondary-text-color">
         <h1>Nice Curves 7</h1>
         <p>
           Lorem, ipsum dolor sit amet consectetur adipisicing elit. In quibusdam odio beatae vero corporis omnis minus doloremque distinctio ipsam blanditiis.
