@@ -13,7 +13,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en">
       <head>
-        <title>Kevin Stout Profile</title>
+        <title>Kevin Stout | Software Engineer</title>
         <meta name="description" content="Kevin Stout's profile page" />
         <link rel="icon" href="/favicon.ico" sizes="196x196" />
       </head>
@@ -21,3 +21,9 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
+
+const hello = (name: string) => {
+  return `hello ${name}`;
+};
+
+console.log(hello("world"));
