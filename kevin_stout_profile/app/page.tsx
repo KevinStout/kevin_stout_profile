@@ -10,7 +10,9 @@ export default function Home() {
         <div className="flex min-h-screen flex-col items-center justify-center">
           <Image src={ProfilePic} alt="Picture of Kevin Stout" className="z-50 w-80 h-80 rounded-full p-3" />
           <div className="z-50 w-full max-w-5xl font-mono">
-            <div className="text-5xl text-center ">Kevin Stout</div>
+            <div className="text-5xl text-center tracking-tight">Kevin Stout</div>
+            <div className="text-2xl text-center tracking-normal">Software Engineer</div>
+            <div className="p-4" />
             <div className="text-xl text-center">Finding solutions to complex problems</div>
           </div>
         </div>
@@ -75,8 +77,8 @@ export default function Home() {
       <section>
         <h1>Nice Curves 3</h1>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. In quibusdam odio beatae vero corporis omnis minus doloremque distinctio ipsam blanditiis.
-          Soluta, obcaecati voluptatem. Totam quo veritatis rem, corrupti sequi expedita.
+          Lorem, ipsum dolor sit amet hello consectetur adipisicing elit. In quibusdam odio beatae vero corporis omnis minus doloremque distinctio ipsam
+          blanditiis. Soluta, obcaecati voluptatem. Totam quo veritatis rem, corrupti sequi expedita.
         </p>
       </section>
       <section>
