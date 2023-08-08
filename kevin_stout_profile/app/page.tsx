@@ -1,15 +1,21 @@
 import Image from "next/image";
 import ProfilePic from "../public/images/KevinStout.png";
+import NavBar from "./components/NavBar";
 
 export default function Home() {
   return (
     <main>
+      <NavBar />
       <section className="hero">
         <div className="stars z-20"></div>
         <div className="twinkling z-20"></div>
         <div className="flex min-h-screen flex-col items-center justify-center">
-          <Image src={ProfilePic} alt="Picture of Kevin Stout" className="z-50 w-80 h-80 rounded-full p-3" />
-          <div className="z-50 w-full max-w-5xl font-mono">
+          <Image
+            src={ProfilePic}
+            alt="Picture of Kevin Stout"
+            className="z-40 w-80 h-80 rounded-full p-3"
+          />
+          <div className="z-40 w-full max-w-5xl font-mono">
             <div className="text-5xl text-center tracking-tight">Kevin Stout</div>
             <div className="text-2xl text-center tracking-normal">Software Engineer</div>
             <div className="p-4" />
