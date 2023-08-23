@@ -84,7 +84,6 @@ section {
   }
 }
 .waveWrapper {
-  /* overflow: hidden; */
   position: absolute;
   left: 0;
   right: 0;
@@ -95,7 +94,7 @@ section {
 .waveWrapperInner {
   position: absolute;
   width: 100%;
-  /* overflow: hidden; */
+  overflow: hidden;
   height: 100%;
   bottom: -1px;
 }
